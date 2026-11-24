@@ -1,0 +1,12 @@
+{
+  "kr_stocks": [
+    "삼성전자",
+    "SK하이닉스",
+    "TIGER 미국S&P500",
+    "KODEX 배당성장"
+  ],
+  "us_stocks": [
+    "NVDA",
+    "AAPL",
+    "S&P 500",
+    "Federal Reserve"
