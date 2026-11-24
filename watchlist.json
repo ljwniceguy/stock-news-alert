@@ -3,11 +3,17 @@
     "삼성전자",
     "SK하이닉스",
     "TIGER 미국S&P500",
+    "미국 배당다우존스",
+    "국내 배당주",
+    "두산에너빌리티",
+    "알테오젠",
+    "삼성SDS",
     "KODEX 배당성장"
   ],
   "us_stocks": [
     "NVDA",
     "AAPL",
+    "SCHD",
     "S&P 500",
     "Federal Reserve"
   ]
